@@ -1,0 +1,22 @@
+.newsfeed {
+  margin: 1rem;
+}
+
+.news-article {
+  margin: 1rem;
+  padding: 1rem;
+  /* border: 1px solid black; */
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, .5);
+  transition: all .8s;
+}
+
+.news-article:hover {
+  transform: scale(1);
+  box-shadow: 1.5px 6px 10px rgba(172, 8, 8, 0.5);
+}
+
+.news-img {
+  border: 1px solid red;
+  height: 15vh;
+  margin-bottom: .5rem;
+}
