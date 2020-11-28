@@ -13,6 +13,7 @@ function Newsfeed() {
         <div className='news-excerpt'>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</p>
         </div>
+        
       </div>
       <div className='news-article'>
         <div className='news-img'></div>

@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #eee;
+  height: 60px;
+}
+
+.footer-nav {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer-links {
+  padding: 10px;
+  
+}
+
+.react-icons {
+  height: 80px;
+}
